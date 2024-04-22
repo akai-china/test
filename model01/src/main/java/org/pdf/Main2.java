@@ -7,6 +7,6 @@ package org.pdf;
  */
 public class Main2 {
     public static void main(String[] args) {
-        System.out.println("branch01");
+        System.out.println("Main2");
     }
 }
