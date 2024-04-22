@@ -7,6 +7,7 @@ package org.pdf;
  */
 public class Main1 {
     public static void main(String[] args) {
-        System.out.println("不好");
+        System.out.println("我去");
+        System.out.println("我去擦");
     }
 }
